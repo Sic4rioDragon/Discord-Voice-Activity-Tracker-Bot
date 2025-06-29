@@ -4,6 +4,10 @@ A self-hosted Discord bot that tracks member voice activity in real-time, logs i
 
 ---
 
+[My todo list ](https://trello.com/b/HLqgkjHm/taw-activity-bot)
+
+---
+
 ## 🚀 Features
 
 - ⏱ Tracks **lifetime**, **monthly**, and **weekly** voice activity per user
